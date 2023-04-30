@@ -1,0 +1,4 @@
+.env
+*.csv
+*.session
+__pycache__
